@@ -2,7 +2,7 @@
 Kash's official GitHub repo for Mining Modules  
 A cheaty/QoL Skyblock ChatTriggers mod
 
-**PS: Go check the files for yourself and see all the commands/moddules**
+**PS: Go check the files for yourself and see all the features**
 
 ---
 
