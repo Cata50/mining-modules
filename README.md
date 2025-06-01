@@ -1,6 +1,5 @@
 # Mining Modules  
-Kash's official GitHub repo for Mining Modules  
-A cheaty/QoL Skyblock ChatTriggers mod
+A cheaty/QoL Hypixel Skyblock ChatTriggers mod
 
 **PS: Go check the files for yourself and see all the features**
 
@@ -57,7 +56,7 @@ A cheaty/QoL Skyblock ChatTriggers mod
 # Main Commands
 
 - /wardrobe <#>
-- /stalk
+- /stalk <name>
 - /cofl
 - /skykings
 - /skykings
