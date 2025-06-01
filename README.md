@@ -1,14 +1,71 @@
-Kash's official github repo for Mining Modules 
+# Mining Modules  
+Kash's official GitHub repo for Mining Modules  
+A cheaty/QoL Skyblock ChatTriggers mod
 
-⚠️ **DO NOT DOWNLOAD THIS MOD FROM OTHER SOURCES, YOU WILL MORE THAN LIKELY GET RATTED** ⚠️
+**PS: Go check the files for yourself and see all the commands/moddules**
 
-# Mining Modules
-A cheaty QoL skyblock chattriggers mod
+---
 
-**Modules:**
+# Main Modules
 
-to write
+**Mining:**  
+- Pingless Miner  
+- Nuker  
+- Auto Powder Chest  
+- Griefer Detector (gemstone mining)
 
-**Commands:**
+**Macro:**  
+- Fossil Excavator Macro  
 
-to write
+**Movement:**  
+- Inventory Move  
+- Rancher Spoofer  
+- Slipless Ice 
+
+**Render:**  
+- Pelt ESP  
+- Starred Mob ESP/Nametag
+- Player ESP  
+- Player Hider  
+- Pest ESP  
+- Rat ESP  
+  
+**Other:**  
+- No Debuff
+- Cancel Interact
+- Staff Checker  
+- Auto 2 Day
+- Auto Close Eggs  
+- Auto Close Chests  
+- Atlas Helper  
+
+**Minigames:**  
+- Disasters Waypoints  
+- Simulator ESP/Aura
+- Murder Mystery ESPs
+
+  **Forced Modules:**
+  - Auto Sprint
+  - Auto Tip
+  - Chat Cleaner
+  - Gloomlock Blocker
+  - No Delays (jump/hit/break)
+  - Sack Clicker (gemstone sack)
+  - Title Name Hider (window title)
+  - Command Resender (annoyying 4s cooldowns)
+ 
+# Main Commands
+
+- /wardrobe <#>
+- /stalk
+- /cofl
+- /skykings
+- /skykings
+- /skycrypt
+- /bzo (bazaar orders)
+- /dontbreakcobblestone (gemstone mining)
+- /fairysoulesp (fairy soul esp)
+- /gotobed or /logoffin (e.g. /loi 4.5h)
+- /miningticks (check the mining speed for ticks of a specific block)
+- /monolithesp
+- /waypoint (temporary waypoint)
