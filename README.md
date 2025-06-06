@@ -26,7 +26,8 @@ A cheaty/QoL Hypixel Skyblock ChatTriggers mod
 - Pelt ESP  
 - Starred Mob ESP/Nametag
 - Player ESP  
-- Player Hider  
+- Player Hider (kalhuiki tribe member support aswell)
+- Thyst Hider
 - Pest ESP  
 - Rat ESP  
   
