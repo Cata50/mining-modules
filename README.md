@@ -1,5 +1,5 @@
 # Mining Modules  
-A cheaty/QoL Hypixel Skyblock ChatTriggers mod
+A cheaty/QoL Hypixel Skyblock ChatTriggers mod||, that needs a rewrite, rewrite soon i promise twins 🥀||
 
 **PS: Go check the files for yourself and see all the features**
 
