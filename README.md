@@ -1,8 +1,8 @@
 # Mining Modules  
-A cheaty/QoL Hypixel Skyblock ChatTriggers mod 
+A cheaty QoL Hypixel Skyblock ChatTriggers mod 
 (rewrite soon i promise twins 🥀)
 
-**PS: Go check the files for yourself and see all the features**
+**PS: Go check the files for yourself to see all the features**
 
 ---
 
@@ -15,58 +15,74 @@ A cheaty/QoL Hypixel Skyblock ChatTriggers mod
 - Griefer Detector (gemstone mining)
 
 **Macro:**  
-- Fossil Excavator Macro  
+- Fossil Excavator Macro
+- Bottle Filler (alchemy helper)
 
 **Movement:**  
 - Inventory Move  
 - Rancher Spoofer  
-- Slipless Ice 
+- Slipless Ice
 
-**Render:**  
-- Pelt ESP  
-- Starred Mob ESP/Nametag
-- Player ESP  
-- Player Hider (kalhuiki tribe member support aswell)
-- Thyst Hider
-- Pest ESP  
-- Rat ESP  
-  
-**Other:**  
+**Player:**
 - No Debuff
 - Cancel Interact
+- Auto Rogue
+
+**Render:**  
+- Pelt ESP
+- Starred Mob ESP
+- Player ESP/Nametag
+- Player Hider (kalhuiki support for mining)
+- Thyst Hider
+- Rat/Pest ESP
+- Time Changer
+
+**Hud:**
+- Hub Cleaner (lobby 1 chat readable)
+- Chat Copy (copy chat messages by clicking them)
+- Lobby ID Hider/Window Title Hider (privacy)
+- Various UI removal options
+  
+**Other:**  
+- Trail (cosmetic)
+- Skin/Cape Changer (cosmetic, supports HD textures)
+- Auction features (list action, auto 2 day, escrow fix)
 - Staff Checker  
-- Auto 2 Day
-- Auto Close Eggs  
-- Auto Close Chests  
-- Atlas Helper  
+- Auto Close Chests/Eggs
+- Search Protect (ah/bz)
+- Staff Alert
 
 **Minigames:**  
+- Atlas Helper
 - Disasters Waypoints  
 - Simulator ESP/Aura
-- Murder Mystery ESPs
+- Murder Mystery ESP
+- Prop Hunt ESP
+- Zombies ESP
 
-  **Forced Modules:**
-  - Auto Sprint
-  - Auto Tip
-  - Chat Cleaner
-  - Gloomlock Blocker
-  - No Delays (jump/hit/break)
-  - Sack Clicker (gemstone sack)
-  - Title Name Hider (window title)
-  - Command Resender (annoyying 4s cooldowns)
+**Forced Modules:**
+- Auto Sell (use /trash(add/remove/clear/list))
+- Auto Sell Crops (hold alt while opening agronomy sack in garden)
+- Sack Clicker (gemstone sack, alt + middle click a gemstone to start)
+- Auto Sprint
+- Auto Tip
+- Chat Cleaner
+- Gloomlock Blocker (prevents killing yourself)
+- No Delays (jump/hit/break)
+- Command Resender (annoyying anti spam)
+- Anti Rage
+- Chocolate Factory Muter
+- No Death Animation
  
 # Main Commands
 
-- /wardrobe <#>
-- /stalk <name>
-- /cofl
-- /skykings
-- /skykings
-- /skycrypt
-- /bzo (bazaar orders)
-- /dontbreakcobblestone (gemstone mining)
+- /wd <#> (instant wardrobe)
+- /ps <pet_name> (instant pet swap)
+- /stalk
+- /cofl, skycrypt, skykings
 - /fairysoulesp (fairy soul esp)
-- /gotobed or /logoffin (e.g. /loi 4.5h)
-- /miningticks (check the mining speed for ticks of a specific block)
-- /monolithesp
-- /waypoint (temporary waypoint)
+- /gotobed, /logoffin (e.g. /loi 4.5h)
+- /miningticks (check mining speed ticks of a block)
+- /monolithesp (dwarven mines monolith esp)
+- /waypoint
+- /yaw <yaw> <pitch> (set yaw & pitch)
