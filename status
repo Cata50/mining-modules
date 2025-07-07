@@ -1,2 +1,3 @@
-&6AUTO ROGUE BUG: right clicks even if hasn't found rogue sword
-&9For now disable it if not using, fix in next release
+&5BUGS
+&6Auto Rogue: Right clicks even if no rogue sword in inventory (only enable when using)
+&bAuto Powder Chest: May not work at all (fix soon)
