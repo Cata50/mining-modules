@@ -17,6 +17,7 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 **Macro:**  
 - Fossil Excavator Macro
 - Bottle Filler (alchemy helper)
+- Auto Gift
 
 **Movement:**  
 - Inventory Move  
@@ -36,6 +37,8 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - Thyst Hider
 - Rat/Pest ESP
 - Time Changer
+- Chest ESP
+- Crystal Hollows Map
 
 **Hud:**
 - Hub Cleaner (lobby 1 chat readable)
@@ -61,6 +64,7 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - Zombies ESP
 
 **Forced Modules:**
+- Stash Clicker (alt + middle click stash item)
 - Auto Sell (use /trash(add/remove/clear/list))
 - Auto Sell Crops (hold alt while opening agronomy sack in garden)
 - Sack Clicker (gemstone sack, alt + middle click a gemstone to start)
@@ -86,3 +90,4 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - /monolithesp (dwarven mines monolith esp)
 - /waypoint
 - /yaw <yaw> <pitch> (set yaw & pitch)
+- /logonban (logs off upon server ban message)
