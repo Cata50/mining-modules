@@ -13,11 +13,13 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - Nuker  
 - Auto Powder Chest  
 - Griefer Detector (gemstone mining)
+- Structure/Jasper ESP
 
 **Macro:**  
 - Fossil Excavator Macro
 - Bottle Filler (alchemy helper)
 - Auto Gift
+- Bad Powder Macro
 
 **Movement:**  
 - Inventory Move  
@@ -28,6 +30,9 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - No Debuff
 - Cancel Interact
 - Auto Rogue
+- Minion/Cake Aura
+- Ghost Pick/Stonk Delay
+- Teleport With Anything
 
 **Render:**  
 - Pelt ESP
@@ -42,7 +47,6 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 
 **Hud:**
 - Hub Cleaner (lobby 1 chat readable)
-- Chat Copy (copy chat messages by clicking them)
 - Lobby ID Hider/Window Title Hider (privacy)
 - Various UI removal options
   
@@ -50,10 +54,10 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - Trail (cosmetic)
 - Skin/Cape Changer (cosmetic, supports HD textures)
 - Auction features (list action, auto 2 day, escrow fix)
-- Staff Checker  
+- Staff Checker *(Currently not working as plancke punishment stats isn't updating)*
 - Auto Close Chests/Eggs
 - Search Protect (ah/bz)
-- Staff Alert
+- Staff Alert (If staff is in lobby)
 
 **Minigames:**  
 - Atlas Helper
@@ -80,14 +84,18 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
  
 # Main Commands
 
+- /lobbyhopper <days_limit> | <id> (tries to join specific lobby)
 - /wd <#> (instant wardrobe)
 - /ps <pet_name> (instant pet swap)
 - /stalk
 - /cofl, skycrypt, skykings
-- /fairysoulesp (fairy soul esp)
+- /fairysoulesp 'aura'? (fairy soul esp + aura)
 - /gotobed, /logoffin (e.g. /loi 4.5h)
-- /miningticks (check mining speed ticks of a block)
-- /monolithesp (dwarven mines monolith esp)
+- /miningticks (get mining speed ticks of a block)
 - /waypoint
 - /yaw <yaw> <pitch> (set yaw & pitch)
 - /logonban (logs off upon server ban message)
+- /darkauction (shows time till it starts)
+- /lobbyid (copies lobby id)
+- /yogesp
+- /monolithesp
