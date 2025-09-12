@@ -1,8 +1,7 @@
 # Mining Modules  
 A cheaty QoL Hypixel Skyblock ChatTriggers mod 
 
-**PS: Go check the files for yourself to see all the features**
-Comment out useless imports if you want more fps
+**PS: Go check the loaders to see all the features**
 
 ---
 
