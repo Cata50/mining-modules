@@ -1,8 +1,8 @@
 # Mining Modules  
 A cheaty QoL Hypixel Skyblock ChatTriggers mod 
-(rewrite soon i promise twins 🥀)
 
 **PS: Go check the files for yourself to see all the features**
+Comment out useless imports if you want more fps
 
 ---
 
@@ -10,7 +10,8 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 
 **Mining:**  
 - Pingless Miner  
-- Nuker  
+- Nuker
+- Bad Powder Macro (+location setting)
 - Auto Powder Chest  
 - Griefer Detector (gemstone mining)
 - Structure/Jasper ESP
@@ -25,6 +26,7 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - Inventory Move  
 - Rancher Spoofer  
 - Slipless Ice
+- Stop Fly (island/garden)
 
 **Player:**
 - No Debuff
@@ -33,6 +35,7 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - Minion/Cake Aura
 - Ghost Pick/Stonk Delay
 - Teleport With Anything
+- No Block
 
 **Render:**  
 - Pelt ESP
@@ -54,7 +57,7 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - Trail (cosmetic)
 - Skin/Cape Changer (cosmetic, supports HD textures)
 - Auction features (list action, auto 2 day, escrow fix)
-- Staff Checker *(Currently not working as plancke punishment stats isn't updating)*
+- Staff Checker
 - Auto Close Chests/Eggs
 - Search Protect (ah/bz)
 - Staff Alert (If staff is in lobby)
@@ -81,6 +84,7 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - Anti Rage
 - Chocolate Factory Muter
 - No Death Animation
+- Grandma Wolf Hider
  
 # Main Commands
 
@@ -89,7 +93,7 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - /ps <pet_name> (instant pet swap)
 - /stalk
 - /cofl, skycrypt, skykings
-- /fairysoulesp 'aura'? (fairy soul esp + aura)
+- /soulesp 'aura'? (enigma/fairy soul esp)
 - /gotobed, /logoffin (e.g. /loi 4.5h)
 - /miningticks (get mining speed ticks of a block)
 - /waypoint
@@ -99,3 +103,5 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - /lobbyid (copies lobby id)
 - /yogesp
 - /monolithesp
+- /abilitymacro (for macroing ore collections)
+- /ghostblock
