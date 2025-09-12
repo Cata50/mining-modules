@@ -10,7 +10,6 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 **Mining:**  
 - Pingless Miner  
 - Nuker
-- Bad Powder Macro (+location setting)
 - Auto Powder Chest  
 - Griefer Detector (gemstone mining)
 - Structure/Jasper ESP
@@ -19,7 +18,7 @@ A cheaty QoL Hypixel Skyblock ChatTriggers mod
 - Fossil Excavator Macro
 - Bottle Filler (alchemy helper)
 - Auto Gift
-- Bad Powder Macro
+- Bad Powder Macro (+location setting)
 
 **Movement:**  
 - Inventory Move  
