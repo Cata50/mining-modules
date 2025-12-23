@@ -1,3 +1,6 @@
+**👷 This project will be moved to Forge, no ETA yet 🕐**
+For stability and performance reasons
+
 # Mining Modules  
 A cheaty QoL Hypixel Skyblock ChatTriggers mod 
 
