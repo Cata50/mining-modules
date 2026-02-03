@@ -1,5 +1,9 @@
-**👷 This project will be moved to Forge, no ETA yet 🕐**
-For stability and performance reasons
+**⚠️ Discontinued because of Hypixel's Skyblock's migration to the latest version**
+🛑 I won't be continuing this mod on ChatTriggers (unsmooth/annoyying development experience on the modern versions)
+I might make a Fabric version of the mod someday, but I'll probably have quit the game by then
+
+Thanks to all the users, especially the bug reporters in the discord! ❤️
+
 
 # Mining Modules  
 A cheaty QoL Hypixel Skyblock ChatTriggers mod 
