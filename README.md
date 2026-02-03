@@ -1,4 +1,4 @@
-**⚠️ Discontinued because of Hypixel's Skyblock's migration to the latest version**  
+**⚠️ Discontinued because of Hypixel Skyblock's migration to the latest version**  
 🛑 I won't be continuing this mod on ChatTriggers (annoyying development experience on the modern versions)  
 🕕 I might make a Fabric version of the mod someday, but I'll probably have quit the game by then  
 
